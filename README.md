@@ -1,1 +1,1 @@
-# thm
+This repo contains all scripts I could make up for THM rooms
